@@ -33,7 +33,7 @@
         "PERFECT_CLEAR": "https://octupustea.github.io/jstris-customisation/bejeweled-theme/sfx/score_pc.ogg",
         "CLEAR5": "https://octupustea.github.io/jstris-customisation/bejeweled-theme/sfx/score_cleargreater.ogg"
     },
-    "combo": [
+    "comboTones": [
         null,
         "https://octupustea.github.io/jstris-customisation/bejeweled-theme/sfx/combo_1.ogg",
         "https://octupustea.github.io/jstris-customisation/bejeweled-theme/sfx/combo_6.ogg",
