@@ -40,6 +40,8 @@ Welcome in. Hope you like what I'm doing.
     - [Hard Drop Wiki](https://harddrop.com/wiki/User:Octupus_Tea)
 - Factorio
     - [Spidertron GIF loop](https://www.reddit.com/r/Factoriohno/comments/u3v587/perfect_spidertron_gif_loop/)
+- Rhythm games
+    - [Osu! profile](https://osu.ppy.sh/users/30719750)
 - Legend of Zelda: Breath of the Wild / Tears of the Kingdom
 - Retro / indie games
     - [Bejeweled Series](https://www.youtube.com/shorts/KsRoVVM8cQ4)
